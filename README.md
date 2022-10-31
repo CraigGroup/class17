@@ -1,4 +1,4 @@
-# class16
+# class17
 
 1) clone the repository to your area on Rivanna
 2) follow the instructions on the course Wiki
